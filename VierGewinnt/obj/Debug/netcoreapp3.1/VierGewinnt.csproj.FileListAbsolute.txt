@@ -1,0 +1,13 @@
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\bin\Debug\netcoreapp3.1\VierGewinnt.exe
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\bin\Debug\netcoreapp3.1\VierGewinnt.deps.json
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\bin\Debug\netcoreapp3.1\VierGewinnt.runtimeconfig.json
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\bin\Debug\netcoreapp3.1\VierGewinnt.runtimeconfig.dev.json
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\bin\Debug\netcoreapp3.1\VierGewinnt.dll
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\bin\Debug\netcoreapp3.1\VierGewinnt.pdb
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\obj\Debug\netcoreapp3.1\VierGewinnt.csprojAssemblyReference.cache
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\obj\Debug\netcoreapp3.1\VierGewinnt.csproj.CoreCompileInputs.cache
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\obj\Debug\netcoreapp3.1\VierGewinnt.AssemblyInfoInputs.cache
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\obj\Debug\netcoreapp3.1\VierGewinnt.AssemblyInfo.cs
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\obj\Debug\netcoreapp3.1\VierGewinnt.dll
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\obj\Debug\netcoreapp3.1\VierGewinnt.pdb
+C:\Users\Julien-Malick Barry\source\repos\VierGewinnt\VierGewinnt\obj\Debug\netcoreapp3.1\VierGewinnt.genruntimeconfig.cache

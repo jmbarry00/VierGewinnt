@@ -6,9 +6,10 @@ namespace VierGewinnt
 {
     class Spielfeld
     {
-        int SpaltenX;
-        int ZeilenY;
-        
+        public int SpaltenX;
+        public int ZeilenY;
+
+
         public Spielfeld(int x, int y)
         {
             SpaltenX = x;
@@ -16,6 +17,11 @@ namespace VierGewinnt
             int[,] feld = new int[SpaltenX, ZeilenY];
             Spieler player = new Spieler("");
             player.player1 = true;
+
+        }
+
+        public void feldBesetzen()
+        {
 
         }
     }
