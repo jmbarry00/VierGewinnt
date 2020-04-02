@@ -9,5 +9,10 @@ namespace VierGewinnt
         public int posX;
         public int posY;
 
+        public void steinSetzen(int posx, int posy)
+        {
+            posX = posx;
+            posY = posy;
+        }
     }
 }

@@ -15,12 +15,12 @@ namespace VierGewinnt
             SpaltenX = x;
             ZeilenY = y;
             int[,] feld = new int[SpaltenX, ZeilenY];
-            Spieler player = new Spieler("");
+            Spieler player = new Spieler("Spieler1");
             player.player1 = true;
 
         }
 
-        public void feldBesetzen()
+        private void aufSiegPruefen()
         {
 
         }
