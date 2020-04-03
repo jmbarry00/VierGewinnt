@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using VierGewinnt.Model;
 
 namespace VierGewinnt
 {
@@ -16,7 +15,7 @@ namespace VierGewinnt
             SpaltenX = x;
             ZeilenY = y;
             int[,] feld = new int[SpaltenX, ZeilenY];
-            Spieler player = new Spieler();
+            Spieler player = new Spieler("Spieler1");
             player.player1 = true;
 
         }
@@ -24,11 +23,6 @@ namespace VierGewinnt
         private void aufSiegPruefen()
         {
 
-        }
-
-        private bool feldIstBesetzt(int X, int Y)
-        {
-            return false;
         }
     }
 }
